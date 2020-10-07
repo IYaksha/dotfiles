@@ -1,0 +1,21 @@
+rofi.color-enabled: true
+! Window: ‘background’, ‘border’, ‘separator’
+rofi.color-window: argb:cc252936, #0099FF, #0099FF
+! State: ‘bg’, ‘fg’, ‘altbg’, ‘hlbg’, hlfg
+rofi.color-normal: argb:00252936, #ffffff, argb:00252936, argb:009575cd, #0099FF
+rofi.color-active: argb:00252936, #252936, argb:00252936, argb:009575cd, #ffc000
+rofi.color-urgent: argb:00252936, #ff0000, argb:00252936, argb:00252936, #ff0000
+rofi.width: 50
+rofi.padding: 10
+rofi.opacity: 80
+rofi.border: 2px
+rofi.line-margin: 8
+rofi.lines: 10
+rofi.separator-style: none
+rofi.columns: 2
+rofi.font: Hack Nerd Font 11
+rofi.bw: 2
+rofi.eh: 1
+rofi.separator-style: solid
+rofi.hide-scrollbar: false
+rofi.auto-select: false
